@@ -4,4 +4,4 @@ MAINTAINER Juan Enciso <juan.enciso@unicred.com.br>
 
 WORKDIR /var/www
 
-COPY ./ /var/www
+COPY . /var/www
